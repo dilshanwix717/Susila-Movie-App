@@ -1,0 +1,18 @@
+.iq-main-slider {
+    position: relative;
+    z-index: 1000;
+  }
+  
+  .iq-main-slider .plyr {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: auto;
+    height: 60vh;
+    z-index: 1001;
+  }
+
+  .details-part {
+    margin-top: 0vh;
+  }
+  

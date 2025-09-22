@@ -1,0 +1,8 @@
+
+.ytp-button {
+    display: none !important; /* Use !important to override any inline styles */
+}
+.ytp-chrome-top-buttons{
+    display: none !important; /* Use !important to override any inline styles */
+}
+
